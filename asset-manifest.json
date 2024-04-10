@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/MultiMedia-Project/static/css/main.49a1831d.css",
+    "main.js": "/MultiMedia-Project/static/js/main.b08a1e2e.js",
+    "static/js/885.bcbc5916.chunk.js": "/MultiMedia-Project/static/js/885.bcbc5916.chunk.js",
+    "static/media/Game_Test.wav": "/MultiMedia-Project/static/media/Game_Test.f7f0c2cc44c10713ade6.wav",
+    "static/media/Web_Test.wav": "/MultiMedia-Project/static/media/Web_Test.30c8eb0972fca673fc55.wav",
+    "static/media/Soft.wav": "/MultiMedia-Project/static/media/Soft.03f5caa0f0f31e5cf8f2.wav",
+    "static/media/Cyber.wav": "/MultiMedia-Project/static/media/Cyber.ac7d481c48628e5a1ed6.wav",
+    "static/media/Start.wav": "/MultiMedia-Project/static/media/Start.86798c1050517c40604e.wav",
+    "static/media/Data.wav": "/MultiMedia-Project/static/media/Data.7e519c3bf085184103b9.wav",
+    "static/media/TheBestWorld.gif": "/MultiMedia-Project/static/media/TheBestWorld.3db12a02d53381fcde90.gif",
+    "static/media/UnityDevelopment.png": "/MultiMedia-Project/static/media/UnityDevelopment.61d90089ec7d014870dc.png",
+    "static/media/MinecraftGame.png": "/MultiMedia-Project/static/media/MinecraftGame.865a4d38555055dadeb8.png",
+    "static/media/Cubiki.gif": "/MultiMedia-Project/static/media/Cubiki.c2832d24b108d5d80a04.gif",
+    "static/media/FullStack.jpg": "/MultiMedia-Project/static/media/FullStack.69d84b4d3cbefc5b879c.jpg",
+    "static/media/Kaspersky.png": "/MultiMedia-Project/static/media/Kaspersky.5e2bcc809f0c5bf84c85.png",
+    "static/media/Gitler.png": "/MultiMedia-Project/static/media/Gitler.d701fcb06d1c8184fb02.png",
+    "static/media/Good.png": "/MultiMedia-Project/static/media/Good.98f1e246960da9026211.png",
+    "index.html": "/MultiMedia-Project/index.html",
+    "main.49a1831d.css.map": "/MultiMedia-Project/static/css/main.49a1831d.css.map",
+    "main.b08a1e2e.js.map": "/MultiMedia-Project/static/js/main.b08a1e2e.js.map",
+    "885.bcbc5916.chunk.js.map": "/MultiMedia-Project/static/js/885.bcbc5916.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49a1831d.css",
+    "static/js/main.b08a1e2e.js"
+  ]
+}
